@@ -5,3 +5,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 **GetCompanyMatchSimkey.js** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
 
 ![CompanyMatch](images/CompanyMatchSimKeys.PNG)
+
+**GetFullNameMatchSimkey.js** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
+
+![FullNameMatch](images/FullNameMatchSimKeys.PNG)
