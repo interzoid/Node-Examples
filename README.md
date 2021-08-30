@@ -9,3 +9,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 **GetFullNameMatchSimkey.js** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
 ![FullNameMatch](images/FullNameMatchSimKeys.PNG)
+
+**GetAddressMatchSimkey.js** - generates a similarity key to use to match/locate other similar addresses within the file ("100 East Main Street" & "100 E Main St.", etc.) - visit the API Page: https://www.interzoid.com/services/getaddressmatchadvanced
+
+![AddressMatch](images/AddressMatchSimKeys.PNG)
